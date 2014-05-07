@@ -57,9 +57,9 @@ This block of text should explain how to configure your application:
 
 Screenshots of your application below:
 
-![Screenshot 1](http://placekitten.com/400/300)
+![Screenshot 1](https://dl.dropboxusercontent.com/u/3962716/Screen%20Shot%202014-05-06%20at%209.01.06%20PM.png)
 
-![Screenshot 2](http://placekitten.com/400/300)
+###![Screenshot 2](http://placekitten.com/400/300)
 
 
 ### Known Issues
