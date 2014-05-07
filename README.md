@@ -5,7 +5,7 @@
 
 -->
 
-By [Steve Buckley](author URL goes here).
+By [Steve Buckley](steve.buckley@gerrit-tech.com).
 
 [![Code Climate](Code Climate Badge IMG URL goes here)](Code Climate URL goes here)
 
